@@ -6,7 +6,7 @@ Open terminal `Ctrl` + `Alt` + `T`
 
 **Step 2:** Download CodeBlocks
 [Download Link](http://www.codeblocks.org/downloads/26)<br>
-![](Resources/download_codeblocks.png)
+![Download Page](Resources/download_codeblocks.png)
 
 **Step 3:** Go to the folder that contains the `codeblocks_17.12-1_amd64_stable.tar.xz` file and open the terminal by right clicking from the folder.
 
